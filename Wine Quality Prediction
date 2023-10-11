@@ -20,6 +20,7 @@ I used a dataset from a CSV file named 'wine_data.csv' which includes features l
 - Selected features (independent variables) and the target (dependent variable).
 - Split the data into training and testing sets.
 
+```python
 !pip install pandas scikit-learn
 import pandas as pd
 from sklearn.model_selection import train_test_split
