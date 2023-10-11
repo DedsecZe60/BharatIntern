@@ -1,3 +1,25 @@
+# Wine Quality Prediction
+
+Welcome to the "Wine Quality Prediction" project, a part of my machine learning portfolio. In this project, I have developed a machine learning model to predict the quality of wine using linear regression.
+
+**Author:** [Your Name]
+
+## Project Overview
+
+- **Algorithm:** Linear Regression
+- **Programming Language:** Python
+
+## Dataset
+
+I used a dataset from a CSV file named 'wine_data.csv' which includes features like acidity, alcohol content, pH level, and more to predict the quality of wine.
+
+## Data Preprocessing
+
+- Imported necessary libraries including NumPy, Pandas, Matplotlib, and scikit-learn.
+- Loaded the dataset from 'wine_data.csv'.
+- Selected features (independent variables) and the target (dependent variable).
+- Split the data into training and testing sets.
+
 !pip install pandas scikit-learn
 import pandas as pd
 from sklearn.model_selection import train_test_split
