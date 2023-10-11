@@ -11,7 +11,7 @@ Welcome to the "Wine Quality Prediction" project, a part of my machine learning 
 
 ## Dataset
 
-I used a dataset from a CSV file named 'wine_data.csv' which includes features like acidity, alcohol content, pH level, and more to predict the quality of wine.
+I used a dataset from a CSV file named 'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv' which includes features like acidity, alcohol content, pH level, and more to predict the quality of wine.
 
 ## Data Preprocessing
 
