@@ -1,0 +1,24 @@
+# Iris Flowers Classification
+
+Welcome to the "Iris Flowers Classification" project, a part of my machine learning portfolio. In this project, I have developed a machine learning model to classify Iris flowers into different species based on sepal and petal measurements using scikit-learn.
+
+**Author:** [Your Name]
+
+## Project Overview
+
+- **Algorithm:** Machine Learning with scikit-learn
+- **Programming Language:** Python
+
+## Dataset
+
+I used the well-known Iris dataset to classify Iris flowers into species. The dataset contains measurements of sepal length, sepal width, petal length, and petal width for three different Iris species: setosa, versicolor, and virginica.
+
+## Data Preprocessing
+
+- Imported necessary libraries including NumPy, Pandas, scikit-learn.
+- Loaded the Iris dataset.
+- Selected features (sepal length, sepal width, petal length, and petal width) as independent variables.
+- Assigned Iris species as the target (dependent variable).
+- Split the data into training and testing sets.
+
+```python
